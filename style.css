@@ -1,0 +1,31 @@
+html {
+    font-size: 62.5%;
+    font-family: Arial;
+}
+
+
+body {
+    font-size: 16px; /* 1rem  = 10px */
+}
+
+main {
+    display: flexbox;
+}
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #478CCF;
+}
+
+h2{
+    color: #36C2CE;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #478CCF;
+    color: antiquewhite;
+}
